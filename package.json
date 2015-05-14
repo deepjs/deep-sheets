@@ -1,7 +1,7 @@
 {
-  "name": "deep-protocols",
+  "name": "deep-sheets",
   "version": "1.0.0",
-  "description": "Abstract Resource Locator tools for javascript.",
+  "description": "deepjs transformations DSL for javascript objects.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -12,16 +12,16 @@
   },
   "keywords": [
     "javascript",
-    "ocm",
-    "design",
-    "security"
+    "AOP",
+    "transformations",
+    "deepjs"
   ],
   "author": "Gilles Coomans <gilles.coomans@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deepjs/deep-protocols/issues"
+    "url": "https://github.com/deepjs/deep-sheets/issues"
   },
-  "homepage": "https://github.com/deepjs/deep-protocols",
+  "homepage": "https://github.com/deepjs/deep-sheets",
   "devDependencies": {
     "gulp": "^3.8.11",
     "chai": "^2.2.0",

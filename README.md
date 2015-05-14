@@ -1,4 +1,4 @@
-# deep-protocols
+# deep-sheets
 
-Abstract Resource Locator tools for javascript.
+deepjs transformations DSL for javascript objects.
 

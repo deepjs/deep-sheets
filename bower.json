@@ -1,20 +1,20 @@
 {
-  "name": "deep-protocols",
+  "name": "deep-sheets",
   "version": "1.0.0",
-  "homepage": "https://github.com/deepjs/deep-protocols",
+  "homepage": "https://github.com/deepjs/deep-sheets",
   "authors": [
     "Gilles Coomans <gilles.coomans@gmail.com>"
   ],
-  "description": "Abstract Resource Locator tools for javascript.",
+  "description": "deepjs transformations DSL for javascript objects.",
   "moduleType": [
     "amd",
     "node"
   ],
   "keywords": [
     "javascript",
-    "dependency injection",
-    "Abstract resource Locator",
-    "provider"
+    "AOP",
+    "transformations",
+    "deepjs"
   ],
   "license": "MIT",
   "ignore": [
